@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "title": "Lowest Cost Solar Panels in America",
+        "description": "Money-back Guarantee",
+        "image": "solar-panel.jpg",
+        "leftButtonText": "Order Now",
+        "rightButtonText": "Learn More"
+    },
+    {
+        "id": 1,
+        "title": "Accessories",
+        "description": "",
+        "image": "accessories.jpg",
+        "leftButtonText": "Shop Now"
+    }
+]
